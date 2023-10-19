@@ -8,7 +8,7 @@
 // Purpose: a program that displays a menu of choices for the user that allow him to load an image and choose the filter to apply
 
 #include <iostream>
-#include <fstream> 
+#include <fstream>  
 #include <cstring>
 #include <algorithm>
 #include <cmath> 
