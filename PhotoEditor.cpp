@@ -3,7 +3,7 @@
 // Last Modification Date:	9/10/2023
 // Author1 and ID and Group:	Farida Youssry 20221219 
 // Author2 and ID and Group:	Shahd Abdel Nasser 20220480
-// Author3 and ID and Group:	Mohamed Osama 20220477 
+// Author3 and ID and Group:	Mohamed Osama 20220477  
 // Teaching Assistant:		xxxxx xxxxx 
 // Purpose: a program that displays a menu of choices for the user that allow him to load an image and choose the filter to apply 
  
