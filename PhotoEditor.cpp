@@ -50,7 +50,7 @@ void loadRGBImage () {
     char imageFileName[100];
 
 
-    cout << "Enter the source image file name: ";
+    cout << "Enter the source image file name : ";
     cin >> imageFileName;
 
 
