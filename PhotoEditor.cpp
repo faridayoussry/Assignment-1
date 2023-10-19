@@ -66,7 +66,7 @@ void saveRGBImage () {
     cout << "Enter the target image file name: ";
     cin >> imageFileName;
 
-
+    
     strcat (imageFileName, ".bmp");
     writeRGBBMP(imageFileName, image_RGB);
 }
