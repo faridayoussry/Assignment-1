@@ -1,7 +1,7 @@
 // FCAI – OOP Programming – 2023 - Assignment 1
 // Program Name:				PhotoEditor.cpp
 // Last Modification Date:	9/10/2023
-// Author1 and ID and Group:	Farida Youssry 20221219
+// Author1 and ID and Group:	Farida Youssry 20221219 
 // Author2 and ID and Group:	Shahd Abdel Nasser 20220480
 // Author3 and ID and Group:	Mohamed Osama 20220477
 // Teaching Assistant:		xxxxx xxxxx
