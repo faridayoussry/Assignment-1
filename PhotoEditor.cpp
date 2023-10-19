@@ -7,7 +7,7 @@
 // Teaching Assistant:		xxxxx xxxxx
 // Purpose: a program that displays a menu of choices for the user that allow him to load an image and choose the filter to apply 
  
-#include <iostream>
+#include <iostream> 
 #include <fstream>   
 #include <cstring>
 #include <algorithm>
