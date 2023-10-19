@@ -19,7 +19,6 @@ unsigned char image2[SIZE][SIZE];
 unsigned char image_RGB [SIZE][SIZE][RGB];
 unsigned char image2_RGB [SIZE][SIZE][RGB];
 
-
 void loadImage () {
     char imageFileName[100];
 
