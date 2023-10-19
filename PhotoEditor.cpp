@@ -15,7 +15,7 @@
 #include "bmplib.cpp" 
 using namespace std;
 unsigned char image[SIZE][SIZE];
-unsigned char image2[SIZE][SIZE];
+unsigned char image2[SIZE][SIZE]; 
 unsigned char image_RGB [SIZE][SIZE][RGB];
 unsigned char image2_RGB [SIZE][SIZE][RGB];
 
