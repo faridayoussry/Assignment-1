@@ -11,7 +11,7 @@
 #include <fstream> 
 #include <cstring>
 #include <algorithm>
-#include <cmath>
+#include <cmath> 
 #include "bmplib.cpp" 
 using namespace std;
 unsigned char image[SIZE][SIZE];
