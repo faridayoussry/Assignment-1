@@ -1,7 +1,7 @@
 # Assignment-1
 Photo Editor App
 This is a simple photo editor app that allows you to apply various filters and effects to your images. 
-You can also crop, rotate, resize, and adjust the brightness and contrast of your photos.
+You can also crop, rotate, resize, and adjust the brightness of your photos.
 This app is written in C++ .
 
 Made by :
